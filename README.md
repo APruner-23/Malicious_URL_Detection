@@ -13,4 +13,7 @@ Phishing (0), Benign (1), Defacement (2), Malware (3).
 ## Classifiers
 The 3 types of classifiers that have been chosen for this work are: kNN Classifier, RandomForest Classifier, a Deep Neural Network created via Tensorflow.
 
+## Features
+Feature extraction and feature analysis has been done, check the colab notebooks for more details on them.
+
 
